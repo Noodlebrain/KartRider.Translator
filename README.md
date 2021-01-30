@@ -1,6 +1,6 @@
 # KartRider.Translator
 
-# UPDATE: THIS PROJECT IS NO LONGER BEING MAINTAINED
+**UPDATE: THIS PROJECT IS NO LONGER BEING MAINTAINED**
 In 2018, Nexon changed the file compression format for KartRider's game data; this translator no longer works.
 If you would still like to be in contact with members of the international KartRider community, here are a few Discord links:
 [KartExtreme](https://discord.com/invite/kqXxzBB)
